@@ -5,8 +5,8 @@ Download your favorite ringtones
 
 ### Screen shots
 
-### License: (MIT)[/LICENSE]
+### License: [MIT](/LICENSE)
 
 ### Author:
 
- - (Chandramohan)[https://www.linkedin.com/in/chandramohank15]
+ - [Chandramohan](https://www.linkedin.com/in/chandramohank15)
