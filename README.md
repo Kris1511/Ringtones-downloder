@@ -5,7 +5,7 @@ Download your favorite ringtones
 
 ### Screen shots
 
-### License
+### License: (MIT)[/LICENSE]
 
 ### Author:
 
